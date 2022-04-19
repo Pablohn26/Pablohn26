@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pablohn26" alt="Pablohn26" align="right" />
 </a>
 
-- :office: &nbsp;Working at [Kanteron Systems](https://www.kanteron.com/)
+- :office: &nbsp;Working at [Bitergia](https://bitergia.com/)
 - :seedling: &nbsp;I’m building [**Hospital Assistant**](https://hospital-assistant.io/)
 - :nerd_face:	Interested on automation
 - 🔭  &nbsp;I love tech events (actually it is a pretext to travel)
