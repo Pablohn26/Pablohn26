@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<a href="#Panblohn26-title">
+<a href="#Pablohn26-title">
   <img src="https://github-readme-stats.vercel.app/api?username=pablohn26" alt="Pablohn26" align="right" />
 </a>
 
