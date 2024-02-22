@@ -18,8 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pablohn26" alt="Pablohn26" align="right" />
 </a>
 
-- :office: &nbsp;Working at [Bitergia](https://bitergia.com/)
-- :seedling: &nbsp;I’m building [**Hospital Assistant**](https://hospital-assistant.io/)
+- :office: &nbsp;Working at [Your Company here](https://google.com/)
+- :seedling: &nbsp;I’m building [**Hospital Assistant**](https://hospital-assistant.eu/)
 - :nerd_face:	Interested on automation
 - 🔭  &nbsp;I love tech events (actually it is a pretext to travel)
 - 💬 Please, reproduce the error and show me the logs
